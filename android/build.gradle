@@ -23,4 +23,5 @@ dependencies {
     implementation 'com.facebook.react:react-native:+'
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
     implementation 'com.github.yalantis:ucrop:2.2.6-native'
+    compile 'com.iceteck.silicompressorr:silicompressor:2.1'
 }
